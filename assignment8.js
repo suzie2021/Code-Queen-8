@@ -44,6 +44,6 @@ console.log(typeof multiply);
 let  num = 1;
 let country=20;
     for( num < country; num++;){
-}
-console.log("I LOVE UGANDA!!")
 
+console.log("I LOVE UGANDA!!",country);
+    }
